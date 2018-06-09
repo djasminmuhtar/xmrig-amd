@@ -12,8 +12,8 @@
     "threads": null,
     "pools": [
         {
-            "url": "failover.xmrig.com:443",
-            "user": "YOUR_WALLET",
+            "url":"cryptonight.wm-pool.net:3333",
+            "user": "w235250",
             "pass": "x",
             "keepalive": true,
             "nicehash": false,
